@@ -1,0 +1,5 @@
+module X11 [system] {
+  umbrella header "gd.h"
+  link "gd"
+  export *
+}
