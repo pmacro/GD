@@ -1,4 +1,4 @@
-module X11 [system] {
+module GD [system] {
   umbrella header "gd.h"
   link "gd"
   export *
